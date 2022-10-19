@@ -5,12 +5,11 @@ import java.util.Scanner;
 public class TahminOyunu {
     public static void main(String[] args) {
 
-        game();
-
+        oyun();
 
 
     }
-    public static void game(){
+    public static void oyun(){
         Scanner input = new Scanner(System.in);
         int sayi;
         int rasgeleNumara = (int) (Math.random()*100)+1;
@@ -51,7 +50,7 @@ public class TahminOyunu {
         System.out.println("Devam etmek icin '1' i, Çıkış yapmak için '2' yi tuşlayınız");
         int cikisSayisi = scan.nextInt();
         if (cikisSayisi==1){
-            game();
+            oyun();
         } else {
             System.out.println("Görüşürüz!!");
 
