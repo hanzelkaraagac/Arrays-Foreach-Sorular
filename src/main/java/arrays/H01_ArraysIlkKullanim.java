@@ -34,6 +34,5 @@ public class H01_ArraysIlkKullanim {
         System.out.println(stdAges[4]);
 
 
-
     }
 }

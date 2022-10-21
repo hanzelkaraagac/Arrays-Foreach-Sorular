@@ -23,5 +23,6 @@ public class H04_StringBirArrayOlusturunuzBuArraye5TaneIsimYerlestirinizBuIsimle
         }
         System.out.println(karakterSayilariToplami);
 
+
     }
 }
