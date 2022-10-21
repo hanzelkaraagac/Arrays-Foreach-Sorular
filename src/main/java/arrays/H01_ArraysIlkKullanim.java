@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-public class ArraysIlkKullanim {
+public class H01_ArraysIlkKullanim {
     public static void main(String[] args) {
 
          /*

@@ -2,7 +2,7 @@ package arrays;
 
 import java.util.Arrays;
 
-public class ArraydekiEnKucukBeEnBuyukElemaninToplaminiEkranaYazdiriniz {
+public class H02_ArraydekiEnKucukBeEnBuyukElemaninToplaminiEkranaYazdiriniz {
     public static void main(String[] args) {
 
 
