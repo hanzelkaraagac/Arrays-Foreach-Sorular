@@ -3,7 +3,7 @@ package arrays;
 import java.util.Arrays;
 import java.util.Comparator;
 
-public class SizeVerilenBirCumledekiEnUzunKelimeyiBulanKoduYaziniz {
+public class H11_SizeVerilenBirCumledekiEnUzunKelimeyiBulanKoduYaziniz {
     public static void main(String[] args) {
 
         //Example 3: Size verilen bir cumledeki en uzun kelimeyi bulan kodu yaziniz.
