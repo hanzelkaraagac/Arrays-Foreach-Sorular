@@ -1,6 +1,6 @@
 package arrays;
 
-public class H06_StringBirArrayOlusturunuzTomveTomdanOncekiTumElemanlariEkranaYazdiriniz {
+public class H06_StringBirArrayOlusturunuzHanzelveHanzeldenOncekiTumElemanlariEkranaYazdiriniz {
     public static void main(String[] args) {
 
         //Example 1: String bir Array olusturunuz ve "Hanzel" ve "Hanzel" dan onceki tum elemanlari ekrana yazdiriniz.
