@@ -8,22 +8,21 @@ public class H09_0_2_3_0_12_0_Sifirlari_En_Sona_Koyunuz {
         //Example 1: [0, 2, 3, 0, 12, 0] sifirlari en sona koyunuz
         //           [2, 3, 12, 0, 0, 0]
 
-        int sayilar [] = {0,2,3,0,12,0};
+        int orijinal [] = {0,2,3,0,12,0};
 
-        int yeni [] = new int[sayilar.length];
+        int yeni [] = new int [orijinal.length];// yeni Array olusturduk. orijinal Array ile ayni uzunlukta olmasi lazim.
 
-        int idx = 0;
+        int index = 0;// yeni Array icin calisacak index'e ihtiyacimiz var.
 
-        for (int i = 0; i < sayilar.length; i++) {
+        for (int i = 0; i < orijinal.length; i++) {
 
-            if (sayilar [i] != 0) {
+            if (orijinal[i] !=0) {
 
-                yeni [idx] = sayilar [i];
-                idx++;
+               yeni [index] = orijinal [i];
+               index++;
             }
-        }  System.out.println(Arrays.toString(yeni));
-
-
+        }
+        System.out.println(Arrays.toString(yeni));
 
     }
 }
