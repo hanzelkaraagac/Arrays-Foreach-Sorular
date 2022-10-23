@@ -27,7 +27,7 @@ public class H03_StdAgesArrayiIcindekiTumElemanlarinToplaminiEkranaYazdiranKoduY
         }
         System.out.println(sum);
 
-        //2.yol
+        //2.yol While-loop
         int i = 0;
         int toplam =0;
 
@@ -40,7 +40,7 @@ public class H03_StdAgesArrayiIcindekiTumElemanlarinToplaminiEkranaYazdiranKoduY
 
         System.out.println(toplam);
 
-        //3.yol
+        //3.yol do-while-loop
 
         int k = 0;
 
@@ -54,7 +54,7 @@ public class H03_StdAgesArrayiIcindekiTumElemanlarinToplaminiEkranaYazdiranKoduY
 
         System.out.println(s);
 
-        //4.yol
+        //4.yol foreach
 
         int t =0;
 
