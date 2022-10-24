@@ -73,4 +73,19 @@ Bu döngüler uygun şekilde tasarlandıkları sürece aynı işi yapabilirler. 
 
 
      */
+
+
+     /*                         ===ARRAYS====
+
+       binarySearch() method: bu method'i kullanarak bir elemanin Array'de olup olmadigini anlariz.
+       binarySearch() method'unu kullanmadan once mutlaka Arrays.sort() kullanilmalidir.
+       binarySearch() method'u aradiginiz eleman Array'de varsa o elemanin index'ini return eder.
+
+       binarySearch() method'u aradiginzi eleman Array'de yoksa "-a" seklinde bir negatif sayi alirsiniz.
+       Bu sayidaki "-" isaretinin anlami bu eleman Array'de yok demektir. "a" nin anlami olsaydi kacinci sirada olurdu demektir.
+
+       binarySearch() method'u tekrarlayan elemanlar icin kullanilmaz.
+
+
+     */
 }
